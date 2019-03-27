@@ -1,0 +1,6 @@
+.venv
+.vscode
+params.py
+
+__pycache__
+.python-version
