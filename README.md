@@ -18,8 +18,10 @@ The script automate the tasks below:
 
 ### Run
 
-- pip install -r requirements.txt
-- python script.py
+```bash
+$ pip install -r requirements.txt
+$ python script.py
+```
 
 ### Tip
 
